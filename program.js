@@ -5,7 +5,7 @@ if (myFavorite === 8) {
   console.log("Meu número favorito é: " + myFavorite);
 }
 
-/*const hoursHand = document.querySelector(".hand.hours");
+const hoursHand = document.querySelector(".hand.hours");
 const minutesHand = document.querySelector(".hand.minutes");
 const secondsHand = document.querySelector(".hand.seconds");
 
@@ -27,4 +27,4 @@ const setClock = () => {
 
 setClock();
 
-setInterval(setClock, 1000);*/
+setInterval(setClock, 1000);
